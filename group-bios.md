@@ -4,4 +4,4 @@
 
 Lola is a wonderful dog.
 
-**Jason** is Department Head of digital library initiatives. 
+**Jason** is Department Head of Digital Library Initiatives. 
