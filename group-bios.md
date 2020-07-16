@@ -8,4 +8,4 @@ Lola is a wonderful dog.
 
 Kevin likes computers
 
-Test
+**Victor** likes pizza. He tolerates *platanos*. And dislikes **nuts**.
