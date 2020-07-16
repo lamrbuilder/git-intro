@@ -4,7 +4,7 @@
 
 Lola is a wonderful dog.
 
-**Niqui** is here.
+**Niqui** is currently working on updating [Red White and Black](https://dnoneill.github.io/demostite/#/home/).
 
 Kevin likes computers
 
