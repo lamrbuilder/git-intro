@@ -10,4 +10,4 @@ Lola is a wonderful dog.
 
 Kevin likes computers
 
-
+Tori things git is challenging but worth learning. 
