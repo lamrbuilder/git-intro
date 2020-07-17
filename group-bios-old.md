@@ -8,7 +8,7 @@ Lola is a wonderful dog.
 
 **Tori** is owns a cat...or does her cat own her? Both like *sushi*. 
 
-**Niqui** is here.
+**Niqui** is currently working on updating [Red White and Black](https://dnoneill.github.io/demostite/#/home/).
 
 **Kevin** likes computers
 
