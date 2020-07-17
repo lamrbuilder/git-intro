@@ -10,7 +10,7 @@ Lola is a wonderful dog.
 
 **Niqui** is here.
 
-Kevin likes computers
+**Kevin** likes computers
 
 **Jason** is a overwhelmed dog and 2 cat parent.  He loves Talenti Gelato.
 
