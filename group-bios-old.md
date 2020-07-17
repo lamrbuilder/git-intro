@@ -14,7 +14,5 @@ Kevin likes computers
 
 **Jason** is a overwhelmed dog and 2 cat parent.  He loves Talenti Gelato.
 
-<<<<<<< HEAD
-=======
 another test
->>>>>>> 098ef0cbf20293cf172896c3d1bd744b7e406891
+
