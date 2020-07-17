@@ -14,5 +14,5 @@ Lola is a wonderful dog.
 
 **Jason** is a overwhelmed dog and 2 cat parent.  He loves Talenti Gelato.
 
-another test
+**Alex** *likes to ride bicycles but not when its 95 degrees outside.* 
 
