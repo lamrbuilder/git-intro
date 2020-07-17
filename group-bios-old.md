@@ -16,3 +16,4 @@ Lola is a wonderful dog.
 
 **Alex** *likes to ride bicycles but not when its 95 degrees outside.* 
 
+These are group bios! 
