@@ -2,7 +2,7 @@
 
 **Natalia** is a helicopter dog parent who loves cake and ice cream.
 
-This is Victor. Hello. The end.
+**Victor** likes pizza. He tolerates *platanos*. And dislikes **nuts**.
 
 Lola is a wonderful dog.
 
