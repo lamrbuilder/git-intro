@@ -16,4 +16,6 @@ Lola is a wonderful dog.
 
 **Alex** *likes to ride bicycles but not when its 95 degrees outside.* 
 
+**Claire** has no pets except for the squirrels that eat *everything* in her flower box.
+
 These are group bios! 
