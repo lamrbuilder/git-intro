@@ -40,7 +40,7 @@
   
   The command line is ...
   
-- Renee Lam
+- Renee Lam likes corgis and salsa dancing and would like to learn how to whistle.
 
   ![title](image url)
   
