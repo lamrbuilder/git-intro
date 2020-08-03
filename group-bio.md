@@ -4,7 +4,7 @@
 
    ![puppers](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQq4YXHU5CzMxbh3ZV4tyNJ2UqcD5wxmObunw&usqp=CAU)
 
-- Tori Culler
+- Tori Culler is the proud owner of a cat...or does the cat own her? Both like sushi. 
 
   ![title](image url) or [title](url)
   
