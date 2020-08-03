@@ -4,9 +4,9 @@
 
    ![puppers](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQq4YXHU5CzMxbh3ZV4tyNJ2UqcD5wxmObunw&usqp=CAU)
 
-- Tori Culler
+- **Tori Culler** is the proud owner of a cat...***or does the cat own her?*** Both like sushi. 
 
-  ![title](image url) or [title](url)
+  ![sushi + cat = sushi cat](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.designboom.com%2Fwp-content%2Fuploads%2F2014%2F06%2Fsushi-cats-tange-nakimushi-peanuts-designboom-500.jpg&f=1&nofb=1)
   
   The command line is the MATRIX>!>#$%????
 
