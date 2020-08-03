@@ -22,7 +22,7 @@
   
   The command line is ...
   
-- Lauren Barrett
+- Lauren Barrett's idea of a good time is reading a good book during a thunderstorm.
 
   ![title](image url)
   
