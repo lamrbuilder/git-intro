@@ -50,7 +50,7 @@
 Interests include:
 - Cross stitching
 - Animal Crossing
-- Sour candy
+- **Sour** candy
 
   ![happycorgi](https://i.pinimg.com/originals/c9/b7/d9/c9b7d945c01a0d817baa4d307e561cba.jpg)
   
