@@ -10,7 +10,7 @@
   
   The command line is ...
 
-- Sarah Casteel
+- Sarah Casteel is a UNC grad student with a lot of enthusiasm for the beach, hiking, and Netflix marathons.
 
   ![title](image url)
   
