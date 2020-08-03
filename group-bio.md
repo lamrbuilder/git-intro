@@ -34,7 +34,7 @@
   
   The command line is ...
   
-- Hiva Kadivar
+- **Hiva Kadivar** is a caretaker to a sweet polydactyl cat with six digit *mittens*.
 
   ![title](image url)
   
