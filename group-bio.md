@@ -46,9 +46,9 @@
   
   The command line is ...
   
-- Lidia J Morris
+- **Lidia Morris** is a second year MLIS student at Chapel Hill who wants to learn more about Library Technology and is happy to be here!
 
-  ![title](image url)
+  ![happycorgi](https://i.pinimg.com/originals/c9/b7/d9/c9b7d945c01a0d817baa4d307e561cba.jpg)
   
   The command line is ...
   
