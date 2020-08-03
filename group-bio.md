@@ -56,9 +56,9 @@ Interests include:
   
   The command line is ...
   
-- Jacob Tompkins
+- **Jake Tompkins** is a horror movie enthusiast who also loves to *rollerblade*!
 
-  ![title](image url)
+  ![doggo](https://i.pinimg.com/originals/37/5d/ed/375ded3ce5414802d2d534286a971362.jpg)
   
   The command line is ...
   
