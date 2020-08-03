@@ -6,36 +6,55 @@
 
 - Tori Culler
 
-  ![title](image url)
+  ![title](image url) or [title](url)
+  
+  The command line is ...
 
 - Sarah Casteel
 
   ![title](image url)
+  
+  The command line is ...
 
 - Lillianna Cervantes
 
   ![title](image url)
-
+  
+  The command line is ...
+  
 - Lauren Barrett
 
   ![title](image url)
-
+  
+  The command line is ...
+  
 - Madina Grace
 
   ![title](image url)
-
+  
+  The command line is ...
+  
 - Hiva Kadivar
 
   ![title](image url)
-
+  
+  The command line is ...
+  
 - Renee Lam
 
   ![title](image url)
-
+  
+  The command line is ...
+  
 - Lidia J Morris
 
   ![title](image url)
-
+  
+  The command line is ...
+  
 - Jacob Tompkins
 
   ![title](image url)
+  
+  The command line is ...
+  
