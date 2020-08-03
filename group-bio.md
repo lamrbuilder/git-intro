@@ -10,9 +10,9 @@
   
   The command line is ...
 
-- Sarah Casteel is a UNC grad student with a lot of enthusiasm for the beach, hiking, and Netflix marathons.
+- Sarah Casteel is a UNC grad student with *a lot* of enthusiasm for the beach, hiking, and Netflix marathons.
 
-  ![title](image url)
+  ![Wrightsville Beach, NC](https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_600,q_75,w_1600/v1/clients/wilmingtonnc/7ac9e77c_33fa_48e1_9280_a9f3eb042334_92045711-71e4-4791-b3d2-659836bb8b1d.jpg)
   
   The command line is ...
 
