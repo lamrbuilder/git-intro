@@ -22,7 +22,7 @@
   
   The command line is ...
   
-- **Lauren Barrett**
+- Lauren Barrett's idea of a good time is reading a good book during a thunderstorm.
 
   ![...with a blanket](https://engage.brctv.com/sites/default/files/styles/blog_large/public/blog/2019-10/Kids%20reading%20during%20power%20outage.jpg?itok=unEQbETl)
   
