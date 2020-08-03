@@ -28,7 +28,7 @@
   
   The command line is ...
   
-- Madina Grace
+- Madina Grace likes biking. Her favorite trail is a Cuahoga Valley trail
 
   ![title](image url)
   
