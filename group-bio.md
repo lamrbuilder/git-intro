@@ -40,9 +40,9 @@
   
   The command line is ...
   
-- Renee Lam likes corgis and salsa dancing and would like to learn how to whistle.
+- ***Renee Lam*** likes corgis and salsa dancing and would like to learn how to whistle.
 
-  ![title](image url)
+  ![hummingbird](https://nas-national-prod.s3.amazonaws.com/styles/hero_image/s3/Hummingbird_Hero_Roger_Levien.jpeg?itok=n4VrJTS-)
   
   The command line is ...
   
