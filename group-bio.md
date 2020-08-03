@@ -36,7 +36,7 @@
   
 - **Hiva Kadivar** is a caretaker to a sweet polydactyl cat with six digit *mittens*.
 
-  ![title](image url)
+  ![mittens](https://upload.wikimedia.org/wikipedia/en/2/2e/PolydactylMittens.JPG)
   
   The command line is ...
   
