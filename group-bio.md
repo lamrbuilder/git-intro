@@ -16,9 +16,10 @@
   
   The command line is ...
 
-- Lillianna Cervantes co-habitates with a sassy rescue cat named Marvel. 
+- **Lillianna Cervantes** co-habitates with a sassy rescue cat named Marvel. 
 
   ![title](image url)
+  ![alt text](image.jpg)
   
   The command line is ...
   
