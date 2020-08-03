@@ -8,7 +8,7 @@
 
   ![sushi + cat = sushi cat](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.designboom.com%2Fwp-content%2Fuploads%2F2014%2F06%2Fsushi-cats-tange-nakimushi-peanuts-designboom-500.jpg&f=1&nofb=1)
   
-  The command line is ...
+  The command line is the MATRIX>!>#$%????
 
 - Sarah Casteel is a UNC grad student with *a lot* of enthusiasm for the beach, hiking, and Netflix marathons.
 
