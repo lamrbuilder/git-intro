@@ -27,7 +27,7 @@
 
   ![...with a blanket](https://engage.brctv.com/sites/default/files/styles/blog_large/public/blog/2019-10/Kids%20reading%20during%20power%20outage.jpg?itok=unEQbETl)
   
-  The command line is ...
+  The command line is bewildering.
   
 - **Madina Grace** likes biking. Her favorite trail is a Cuyahoga Valley trail
 
