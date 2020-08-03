@@ -52,9 +52,9 @@
   
   The command line is ...
   
-- **Jake Tompkins** is a horror movie enthusiast who also loves to rollerblade!
+- **Jake Tompkins** is a horror movie enthusiast who also loves to *rollerblade*!
 
-  ![doggo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F437341813791982426%2F&psig=AOvVaw3Via6OA8PGqHFEQ_j9Omfq&ust=1596569742853000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJj9q_bj_-oCFQAAAAAdAAAAABAD)
+  ![doggo](https://i.pinimg.com/originals/37/5d/ed/375ded3ce5414802d2d534286a971362.jpg)
   
   The command line is ...
   
