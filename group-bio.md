@@ -22,9 +22,9 @@
   
   The command line is ...
   
-- Lauren Barrett
+- **Lauren Barrett**
 
-  ![title](image url)
+  ![...with a blanket](https://engage.brctv.com/sites/default/files/styles/blog_large/public/blog/2019-10/Kids%20reading%20during%20power%20outage.jpg?itok=unEQbETl)
   
   The command line is ...
   
