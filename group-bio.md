@@ -28,9 +28,9 @@
   
   The command line is ...
   
-- Madina Grace
+- **Madina Grace** likes biking. Her favorite trail is a Cuyahoga Valley trail
 
-  ![title](image url)
+  ![Cuyahoga Valley](https://rootsrated.com/stories/insider-s-guide-to-cuyahoga-valley-national-park)
   
   The command line is ...
   
