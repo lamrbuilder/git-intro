@@ -54,7 +54,7 @@ Interests include:
 
   ![happycorgi](https://i.pinimg.com/originals/c9/b7/d9/c9b7d945c01a0d817baa4d307e561cba.jpg)
   
-  The command line is ...
+  The command line is hopefully working for this exercise.
   
 - Jacob Tompkins
 
